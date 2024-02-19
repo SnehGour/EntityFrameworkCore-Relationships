@@ -1,4 +1,4 @@
-﻿namespace Test.EFcore.Models
+﻿namespace EFCore.RelationShips.Models
 {
     public class Team
     {
